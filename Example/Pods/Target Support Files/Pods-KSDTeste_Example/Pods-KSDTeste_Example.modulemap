@@ -1,0 +1,6 @@
+framework module Pods_KSDTeste_Example {
+  umbrella header "Pods-KSDTeste_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

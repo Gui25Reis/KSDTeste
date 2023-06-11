@@ -1,0 +1,23 @@
+{
+  "name": "KSDTeste",
+  "version": "0.1.0",
+  "summary": "Teste para validar se o pod funciona",
+  "description": "Apenas um teste",
+  "homepage": "https://github.com/gui25reis/KSDTeste",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gui Reis": "gui.sreis25@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/gui25reis/KSDTeste.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "resources": "KSDTeste/Assets/**/*{xcassets}",
+  "source_files": "KSDTeste/Classes/**/*{swift,h,m}"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - KSDTeste (0.1.0)
+
+DEPENDENCIES:
+  - KSDTeste (from `../`)
+
+EXTERNAL SOURCES:
+  KSDTeste:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KSDTeste: ded7f5cc8e53aa5dd460002006dfda70e9fd5e1d
+
+PODFILE CHECKSUM: 452c4048ec7b2825c61543462abebae6d2bdf989
+
+COCOAPODS: 1.12.1
